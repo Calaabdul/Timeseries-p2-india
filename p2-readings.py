@@ -6,7 +6,7 @@ Created on Sun Sep  1 19:01:06 2024
 @author: dr.u.aajidagba
 """
 
-import pandas as pd
+
 import streamlit as st
 import pickle
 
